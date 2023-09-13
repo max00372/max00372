@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @max00372
 - 👀 I’m interested in coding, gaming, sports(fitness, bouldering, tennis, running, bicycle) and traveling
-- 🌱 I’m currently learning python, html, javascript
+- 🌱 I’m currently trying to improve my python, html, javascript knowledge.
 
 
 <!---
